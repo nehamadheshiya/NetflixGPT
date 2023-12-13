@@ -10,6 +10,8 @@ export const API_OPTIONS={
 
 export const IMG_CDN_URL="https://image.tmdb.org/t/p/w500/";
 
-export const OPEN_AI_KEY="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";
+export const OPEN_AI_KEY="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";
 // export const OPEN_AI_KEY="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"
-// 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
+// // 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
+// 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
+
